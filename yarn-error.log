@@ -1,0 +1,55 @@
+Arguments: 
+  /Users/pgwsmith/.nvm/versions/node/v8.1.1/bin/node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js add redux --dev
+
+PATH: 
+  ~/.config/yarn/global/node_modules/.bin/:/Users/pgwsmith/.nvm/versions/node/v8.1.1/bin:/Users/pgwsmith/.nvm/versions/node/v8.9.0/bin:/Users/pgwsmith/.rbenv/shims:/usr/local/sbin:/Users/pgwsmith/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  8.1.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "redux-organism",
+    "version": "1.0.0",
+    "description": "Describe redux-organism here",
+    "main": "lib/index.js",
+    "module": "es/index.js",
+    "files": [
+      "es",
+      "lib",
+      "umd"
+    ],
+    "scripts": {
+      "build": "nwb build-web-module",
+      "clean": "nwb clean-module",
+      "test": "nwb test",
+      "test:coverage": "nwb test --coverage",
+      "test:watch": "nwb test --server"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+      "nwb": "0.19.x"
+    },
+    "author": "",
+    "homepage": "",
+    "license": "MIT",
+    "repository": ""
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com registry.yarnpkg.com:443
+      at errnoException (dns.js:50:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)

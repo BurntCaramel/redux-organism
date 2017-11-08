@@ -17,9 +17,12 @@
     "test:watch": "nwb test --server"
   },
   "dependencies": {
+    "awareness": "^1.0.0",
+    "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
-    "nwb": "0.19.x"
+    "nwb": "0.19.x",
+    "redux": "^3.7.2"
   },
   "author": "",
   "homepage": "",

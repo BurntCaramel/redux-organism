@@ -1,7 +1,7 @@
 {
   "name": "redux-organism",
-  "version": "1.0.0",
-  "description": "Describe redux-organism here",
+  "version": "0.1.0",
+  "description": "Enrich your actions with async, generators, loaders",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -14,7 +14,8 @@
     "clean": "nwb clean-module",
     "test": "nwb test",
     "test:coverage": "nwb test --coverage",
-    "test:watch": "nwb test --server"
+    "test:watch": "nwb test --server",
+    "prepublishOnly": "npm run test && npm run build"
   },
   "dependencies": {
     "awareness": "^1.0.0",

@@ -4,7 +4,8 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe redux-organism here.
+- 1.12 KB gzipped (2.88 KB uncompressed)
+- Uses [awareness](https://github.com/RoyalIcing/awareness) for async, generator actions
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo

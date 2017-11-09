@@ -25,6 +25,9 @@
     "nwb": "0.19.x",
     "redux": "^3.7.2"
   },
+  "peerDependencies": {
+    "redux": "^3.7.2"
+  },
   "author": "",
   "homepage": "",
   "license": "MIT",

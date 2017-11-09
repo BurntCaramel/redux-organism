@@ -5,7 +5,10 @@
 [![Coveralls][coveralls-badge]][coveralls]
 
 - 1.12 KB gzipped (2.88 KB uncompressed)
-- Uses [awareness](https://github.com/RoyalIcing/awareness) for async, generator actions
+- Use generator functions for animation
+- Use async functions
+- [See the different types of actions here](https://github.com/RoyalIcing/awareness#handler-types).
+
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo

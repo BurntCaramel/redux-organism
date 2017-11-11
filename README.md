@@ -10,11 +10,11 @@
 - [See the different types of actions here](https://github.com/RoyalIcing/awareness#handler-types).
 
 
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
-[build]: https://travis-ci.org/user/repo
+[build-badge]: https://img.shields.io/travis/RoyalIcing/redux-organism/master.png?style=flat-square
+[build]: https://travis-ci.org/RoyalIcing/redux-organism
 
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
-[npm]: https://www.npmjs.org/package/npm-package
+[npm-badge]: https://img.shields.io/npm/v/redux-organism.png?style=flat-square
+[npm]: https://www.npmjs.org/package/redux-organism
 
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+[coveralls-badge]: https://img.shields.io/coveralls/RoyalIcing/redux-organism/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/RoyalIcing/redux-organism
